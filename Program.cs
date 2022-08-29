@@ -10,6 +10,11 @@ public class Program
         main();
         Console.WriteLine("Hello world");
     }
+    public static void commonmethod()
+    {
+        
+        Console.WriteLine("Hello world of tech");
+    }
 
 
 
